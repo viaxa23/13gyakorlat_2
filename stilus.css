@@ -1,0 +1,23 @@
+html{
+    border: 1px solid red;
+}
+div {
+    width: 500px;
+    height: 150px;
+    background-image: url('hawaii.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    border: 1px solid black;
+    background-attachment: fixed;
+    overflow: scroll;
+    margin-left: 50px;
+    
+}
+#par{
+    font-size: 35px;
+}
+
+.oszt{
+    text-align: center;
+
+}
